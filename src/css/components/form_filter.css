@@ -1,0 +1,31 @@
+.form-filter{
+  font-size: 12px;
+  padding: 20px 0;
+}
+.form-filter .form-group{
+  margin-bottom: 10px;
+}
+.form-filter label{
+  white-space: nowrap;
+  height: 36px;
+  line-height: 36px;
+  margin: 0px;
+  padding: 0 5px;
+}
+.form-filter .form-row-btn{
+  text-align: center;
+}
+.form-filter .form-row-btn .btn{
+  margin: 0 10px;
+}
+.form-filter .input-daterange .input-group-addon{
+  width: auto;
+  min-width: 40px;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  background-color: #eee;
+  border: 1px solid #ccc;
+}

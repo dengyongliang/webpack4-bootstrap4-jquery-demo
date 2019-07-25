@@ -1,0 +1,31 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1310px;
+  }
+  .media-middle{
+    vertical-align: middle;
+  }
+  .center_index .media{
+    background: #fff;
+    padding: 10px;
+  }
+  .center_index .media-left{
+    width: 70px;
+    height: 70px;
+    background: #4c8fff;
+    margin-right: 20px;
+    text-align: center;
+    line-height: 70px;
+  }
+  .center_index .media-left .fa{
+    color: #fff;
+    font-size: 30px;
+    vertical-align: middle;
+  }
+  .center_index .media-body{
+    margin-top: 10px;
+  }
+  .center_index .media b{
+    display: block;
+  }
+}

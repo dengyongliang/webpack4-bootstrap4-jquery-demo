@@ -1,0 +1,53 @@
+.business_domain .contT{
+  margin-bottom: 30px;
+}
+.business_domain h5 i.fa{
+  font-size: 17px;
+  color: #ababab;
+}
+.business_domain .fast-query{
+  padding: 10px;
+  background: #e1edfd;
+  margin-bottom: 20px;
+}
+.business_domain .fast-query .t{
+  float: left;
+  list-style: none;
+  font-size: 12px;
+  margin: 5px 10px 5px 0;
+}
+.business_domain .fast-query ul{
+  overflow: hidden;
+  padding: 0px;
+  margin: 0px;
+}
+.business_domain .fast-query li{
+  float: left;
+  list-style: none;
+  font-size: 12px;
+  margin: 5px 10px 5px 0;
+}
+.business_domain .fast-query a{
+  color: #333;
+}
+.business_domain .fast-query a:hover,
+.business_domain .fast-query .active a{
+  color: #d61518;
+}
+.business_domain .keyword{
+  width: 100%;
+  border: 1px solid #ced4da;
+  background: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.business_domain .keyword .inputText{
+  height: 34px!important;
+  line-height: 34px!important;
+  border: none;
+  padding: 0 15px;
+}
+.business_domain .keyword label{
+  height: 34px;
+  line-height: 34px;
+}

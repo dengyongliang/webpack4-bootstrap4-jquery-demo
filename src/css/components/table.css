@@ -1,0 +1,16 @@
+.table th,
+.table td{
+  background: #fff;
+  border-top: none;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 12px;
+}
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 1px solid #e2e2e2;
+}
+.table td.operate a {
+  display: inline-block;
+  white-space: nowrap;
+  margin: 0 3px;
+}

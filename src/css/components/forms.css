@@ -1,0 +1,27 @@
+input[type=text],
+textarea,
+select{
+  font-size: 12px!important;
+  height: 36px!important;
+  line-height: 36px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+}
+.btn {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 12px;
+}
+.btn-primary{
+  background: #d61518;
+  border-color: #d61518;
+}
+.btn-primary:hover{
+  background: #c82333;
+  border-color: #c82333;
+}
+.btn-secondary{
+  background: #fff;
+  color: #333;
+  border-color: #e0e0e0;
+}

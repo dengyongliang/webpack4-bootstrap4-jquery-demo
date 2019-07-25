@@ -1,0 +1,11 @@
+.content-wrapper{
+  padding: 70px 20px 50px 20px;
+  background-color: #f7f8fa;
+  color: #454545;
+  z-index: 800;
+  webkit-transition: -webkit-transform .3s ease-in-out,margin .3s ease-in-out;
+  -moz-transition: -moz-transform .3s ease-in-out,margin .3s ease-in-out;
+  -o-transition: -o-transform .3s ease-in-out,margin .3s ease-in-out;
+  transition: transform .3s ease-in-out,margin .3s ease-in-out;
+  margin-left: 0px;
+}
